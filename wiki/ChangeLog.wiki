@@ -14,5 +14,5 @@
 *站点更新*
 {{{
 上传了源代码在 SVN 中，大家可以通过下面的链接下载：
-_svn checkout http://qtsokoban.googlecode.com/svn/trunk/ _
+svn checkout http://qtsokoban.googlecode.com/svn/trunk/
 }}}
